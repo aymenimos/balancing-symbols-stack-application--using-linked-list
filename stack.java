@@ -153,7 +153,7 @@ public class stack {
 
                 pointer = pointer.next;
             }
-            System.out.println(" :is left in the stack");
+            System.out.println(" is left in the stack");
         }
     }
 
